@@ -48,6 +48,9 @@ body {
 
 .container{
     padding: 0px 10px;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 nav{
     display: flex;
